@@ -4,17 +4,17 @@
 * Content page
 * Survey page
 
-## Home Page
+## Login API
 
-* Graph displaying progress of student in course
-* Settings to update username/password/display pic/etc...
+create_user: 
 
-
-## Content page
+## Progress API
 
 * Summarize slides
 * Summarize exercises
 
-## Survey page
+## Recommendations API
 
 * Display exercises week-by-week
+
+## Survey API
