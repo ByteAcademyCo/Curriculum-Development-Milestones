@@ -101,15 +101,13 @@ Each day will consist of 7 hours divided into 4 sections. We begin each day with
   * Implementation of a Capstone End to End Application
 
 ## Careers
-Jobs within the field of data science typically pay quite well. An average entry-level data scientist is expected to earn approximately $75,0000/year ranging from $65,000 to $110,000. Jobs you will be qualified for upon successful completion of the program are as follows:
-* Data Scientist/Machine Learning Engineer
-  * Jobs with this title typically involve the whole domain of data science. You will be working on extracting data, analyzing this data for meaningful relationships as well as visualizing this data for non-technical staff.
-* Backend Developer/Data Management Engineer
-  * Jobs with this title typically focus on the earlier stages of machine learning. As the company gets larger and data grows exponentially, it becomes unrealistic for one person to do all work a data scientist does. This role focuses on collecting data, aggregating data and design considerations on how to store this data most efficiently. 
-* Data Analyst
-  * Jobs with this title typically focus on the later stages of machine learning. Again, as companies get large, it becomes unrealistic for one person to do all the work a data scientist does. This role focuses on taking the aggregted data collected from Data Management Engineers and applying machine learning models to extract patterns in the data. 
+Jobs within the field of software engineering can vary greatly, but typically pay quite well. An average entry-level software developer is expected to earn approximately $67,0000/year, ranging from $55,000 to $95,000 (according to Glassdoor). Jobs you will be qualified for upon successful completion of the program are as follows:
+* Software Engineer
+  * Software Engineer job duties can vary greatly, depending on the size of the company and the code base in question. You will generally be working on project design, implementation, testing, and fixing client issues. These jobs can be specific to backend development or frontend development, or require a generalist who can work on both parts of a code base.
+* Software Test Engineer
+  * Jobs with this title typically focus on writing the tests that ensure production code works as designed and intended, to reduce and prevent. As companies get large, it becomes unrealistic for one person to do all the work while developing code, and test-specific engineers fill an important role in quality assurance. This role works with the company's more general software engineers and the quality assurance and DevOps teams to help keep code up to standard. 
   
-Job titles differ drastically from company to company so the above three categories encompass a host of job titles, the ones listed are simply the most common.
+Job titles differ drastically from company to company so the above categories encompass a host of job titles, the ones listed are simply some of the most common.
 
 ## Instructors
 * Pictures of Greg^2
