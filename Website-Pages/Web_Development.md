@@ -23,7 +23,7 @@ Alongside helping customize our content for you, Aiza will also make your teachi
 ## Spryte - Applied Experience
 Spryte is where you actualize your knowledge on real world projects. Upon graduation we provide you with an opportunity to be apart of a development team tasked with building software for external companies. This will allow you to gain hands-on experience with the non-academic side of software including developing with a team and setting projections/deadlines. 
 
-# Python Full Stack Page
+# Data Science Page
 ## Home Section
 Data Science is a discipline concerned with finding meaningful patterns in complex data. Data is everywhere today and most companies are hungry to find patterns in the data. Whether it's determining how a stock price will change or finding the relationship between diapers and crib sales to determine buying patterns in mothers, the applications are endless.
 
@@ -38,10 +38,10 @@ The cost of our in-person and online program are $15,000 and $7,500 respectively
 ### Contents
 * Weeks 1-5 - Computer Science Fundamentals
 Students should be fully comfortable with the Python programming language after completion of this phase. This ranges from understanding the built-in syntax and semantics to leveraging powerful libraries to build complex applications designed to solve a broad range of problems. Students should also have an introductory understanding to most domains within software engineering including data structures, networking, databases and more.
-* Weeks 6-10 - Machine Learning
-This phase deals with understanding the fundamentals machine learning. Upon successful completion of this phase, students are expected to be able to develop machine learning models for various applications and be able to analyze them through technical factors such as over/underfitting. Models covered include regerssion, k-nearest neighbors, principal component analysis and most importantly neural networks.
-* Weeks 11-14 - Large-Scale Project
-Students will simulate a real-world environment and work on a large-scale project in a field they are interested in. Successful completion of this phase will result in developing a complete machine learning model on an application with some real world use cases.
+* Weeks 6-10 - Web Development
+This phase deals with understanding the fundamentals of web application development. Upon successful completion of this phase, students are expected to be able to develop a full end-to-end application, with the ability to store data in a SQL satabase, use a Python web server backend to handle incoming HTTP requests, acquire data from external sources, and present the user with a front end using HTML, CSS, and JavaScript. Topics covered include HTML, CSS, web servers & the Flask framework for Python, JavaScript fundamentals & syntax, and the React.js front-end framework.
+* Weeks 11-14 - Sprint-Based Development
+Students will simulate a real-world environment through participation in two group projects, using an Aglie development model. These projects will be executed in two successive two-week sprints, and will be assigned to groups of students by their instructor. Successful completion of this phase will result in developing two full stack applications, though each individual student may not work on all features of each application.
 
 ### Day-To-Day
 Each day will consist of 7 hours divided into 4 sections. We begin each day with a 1.5hour lecture from 10AM-11:30AM followed by half an hour of a Q&A session with the instructor. Following a 1hour lunch at 12:00PM, students are given 3.5hours to work on exercises for the material covered. The day ends with a 1 hour of help split between 1on1 tutoring and group studies. The day officially ends at 5:00PM but students are allowed to stay late to finish exercises or get a head-start on the next days material.
@@ -75,27 +75,30 @@ Each day will consist of 7 hours divided into 4 sections. We begin each day with
   * Testing
   * Data Management
   
-**Phase 2 - Machine Learning**
-* Week 1 - Introduction to Data Science
-  * Intro to Machine Learning
-  * Math Prerequisites (Calculus, Linear Algebra, Statistics)
-  * Regression
-  * Model Analysis
-* Week 2 - Supervised Learning
-  * K Nearest Neighbors
-  * Decision Trees & XGBoost
-  * Intro to Neural Networks
-* Week 3 - Neural Networks
-  * Feed-forward Neural Network
-  * Convolutional Neural Networks
-  * Recurrent Neural Networks
-* Week 4 - Unsupervised Learning
-  * K-Means Clustering
-  * Principal Component Analysis
-  * Autoencoders
-* Week 5 - Machine Learning Theory
-  * VC-Dimension
-  * Reinforement Learning
+**Phase 2 - Web Development**
+* Week 1 - Introduction to Web Technologies
+  * The Document Object Model
+  * Intro to HTML
+  * Intro to CSS
+  * Introduction to Web Servers & RESTful Flask
+  * Server-Side HTML Generation with Flask
+* Week 2 - Fundamentals of JavaScript
+  * Introduction to JavaScript Syntax
+  * Event Listeners & DOM Manipulation
+  * NPM, Node, & JavaScript Project Structure
+* Week 3 - Introduction to React
+  * React Application Architecture
+  * Functional & Class Components
+  * React Hooks
+  * Fetching External Data with React
+* Week 4 - Intermediate React
+  * Third-Party Libraries in React
+    * Styling Libraries
+    * `react-router-dom`
+  * CORS & Connecting React to Flask
+* Week 5 - Building an End to End Application
+  * Project Design & Architecture
+  * Implementation of a Capstone End to End Application
 
 ## Careers
 Jobs within the field of data science typically pay quite well. An average entry-level data scientist is expected to earn approximately $75,0000/year ranging from $65,000 to $110,000. Jobs you will be qualified for upon successful completion of the program are as follows:
@@ -109,5 +112,5 @@ Jobs within the field of data science typically pay quite well. An average entry
 Job titles differ drastically from company to company so the above three categories encompass a host of job titles, the ones listed are simply the most common.
 
 ## Instructors
-* Pictures of Greg, Wasif
-* Short blurb about each, can take from previous website
+* Pictures of Greg^2
+* Short blurb about each
