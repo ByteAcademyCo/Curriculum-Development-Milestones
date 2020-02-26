@@ -23,7 +23,7 @@ Alongside helping customize our content for you, Aiza will also make your teachi
 ## Spryte - Applied Experience
 Spryte is where you actualize your knowledge on real world projects. Upon graduation we provide you with an opportunity to be apart of a development team tasked with building software for external companies. This will allow you to gain hands-on experience with the non-academic side of software including developing with a team and setting projections/deadlines. 
 
-# Data Science Page
+# Web Development Page
 ## Home Section
 Data Science is a discipline concerned with finding meaningful patterns in complex data. Data is everywhere today and most companies are hungry to find patterns in the data. Whether it's determining how a stock price will change or finding the relationship between diapers and crib sales to determine buying patterns in mothers, the applications are endless.
 
