@@ -25,9 +25,9 @@ Spryte is where you actualize your knowledge on real world projects. Upon gradua
 
 # Web Development Page
 ## Home Section
-Data Science is a discipline concerned with finding meaningful patterns in complex data. Data is everywhere today and most companies are hungry to find patterns in the data. Whether it's determining how a stock price will change or finding the relationship between diapers and crib sales to determine buying patterns in mothers, the applications are endless.
+Software Engineering is a discipline concerned with the design, development, implementation, and maintenance of computer software. Nearly everything in modern society has some underlying software component, and most businesses and services are now web-based. Whether it's your bank, social media, favorite communication platform, or food delivery, life now revolves around web-based applications and infrastructure.
 
-The goal of this program is to teach you the theoretical ideas to exact meaningful patterns, as well as the applied coding skills to turn this theory into practice. The program is intense but produces quality data scientists able to get jobs at most major companies.
+The goal of this program is to teach you the theoretical basics of computer science, and give you the skills to apply those concepts to the construction of modern web applications using cutting-edge technologies. This program will give you the skills to work on both the client-side and server-side parts of a web application.
 
 ## Program Economics
 The cost of our in-person and online program are $15,000 and $7,500 respectively. The programs are structured exactly the same, the only difference between them is whether the material is covered is online or in-person. There is evidence that in-person learning yields greater results than online due to the quality of live support and general motivation hence the discrepancy in the costs, even with the same program.
