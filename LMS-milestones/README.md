@@ -1,8 +1,4 @@
-# Milestones for LMS
-
-* Home page
-* Content page
-* Survey page
+# Aiza API
 
 ## Login API
 
