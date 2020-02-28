@@ -1,4 +1,4 @@
-# Aiza API
+# API
 
 ## Login API
 
