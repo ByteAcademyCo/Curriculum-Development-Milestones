@@ -1,10 +1,13 @@
 # README
 
-* Hubspot on-boarding to track job searches
-* Resume
-* Linkedin
-* Technical interview
-* Job preference listings
-* Mock Interviews
-* Indeed
-* Certifications for niche jobs
+## Workflow
+* Resume update
+* Cover letter update
+* LinkedIn update
+* Indeed configuration
+* Job preference lisings
+* Interviews
+
+## Regulars
+* Interview prep
+* Hubspot?
