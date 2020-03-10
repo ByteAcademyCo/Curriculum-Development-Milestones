@@ -11,4 +11,4 @@
 
 ## Regulars
 * Interview prep
-* Hubspot?
+* Hubspot
