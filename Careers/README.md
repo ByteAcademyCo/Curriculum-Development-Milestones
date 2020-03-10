@@ -6,6 +6,7 @@
 * LinkedIn update
 * Indeed configuration
 * Job preference lisings
+* Meetings
 * Interviews
 
 ## Regulars
