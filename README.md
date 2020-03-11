@@ -20,55 +20,55 @@
 
 ## Phase 1
 
-### Introduction and Environment
+### Development Environment
 
-|    Section           | Exercises      |  Content      | Developer |
-|:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to CS          | 0              | 0             | Anton     |
-| IDEs                 | 0              | 0             | Anton     |
-| Intro to Computation | 0              | 0             | Anton     |
-| Version Control      | 0              | 0             | Anton     |
-| The Developers Env   | 0              | 0             | Anton     |
+|    Section                  | Exercises      |  Content      | Developer |
+|:---------------------------:|:--------------:|:-------------:|:---------:|
+| UNIX Environment            | 0              | 0             | Anton     |
+| Python Environment          | 0              | 0             | Anton     |
+| Git Environment             | 0              | 0             | Anton     |
+| Introduction to Programming | 0              | 0             | Anton     |
+| Software Careers            | 0              | 0             | Anton     |
 
-### Introduction to Python
+### Python
 
-|    Section        | Exercises      |  Content      | Developer |
-|:-----------------:|:--------------:|:-------------:|:---------:|
-| Hello World       | x              | x             | Wasif     |
-| Data Types        | 6              | x             | Wasif     |
-| Control Flow      | 0              | x             | Wasif     |
-| Functions         | 0              | x             | Wasif     |
-| Complexity Theory | 0              | x             | Wasif     |
-
-### Object Oriented Programming
-
-|    Section         | Exercises      |  Content      | Developer |
-|:------------------:|:--------------:|:-------------:|:---------:|
-| Basics             | 0              | 0             | Anton     |
-| Classes            | 0              | 0             | Anton     |
-| Context Managers   | 0              | 0             | Anton     |
-| Exceptions         | 0              | 0             | Anton     |
-| Modules            | 0              | 0             | Anton     |
+|    Section          | Exercises      |  Content      | Developer |
+|:-------------------:|:--------------:|:-------------:|:---------:|
+| Data Types          | 6              | x             | Wasif     |
+| Control Flow        | 0              | x             | Wasif     |
+| Functions           | 0              | x             | Wasif     |
+| Recursion           | 0              | 0             | Anton     |
+| Classes and Objects | 0              | 0             | Anton     |
 
 ### Data Structures
 
+|    Section              | Exercises      |  Content      | Developer |
+|:-----------------------:|:--------------:|:-------------:|:---------:|
+| Dictionaries and Arrays | 0              | 0             | Anton     |
+| Linked Lists            | x              | x             | Anton     |
+| Stacks and Queues       | 0              | x             | Anton     |
+| Trees                   | 6              | 0             | Anton     |
+| Graphs                  | 0              | 0             | Anton     |
+
+### Algorithms
+
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Complex Data         | 0              | 0             | Anton     |
-| Recursive Structures | 0              | 0             | Anton     |
-| Linked Lists         | x              | 0             | Anton     |
-| Trees                | 6              | 0             | Anton     |
-| Graphs               | 0              | 0             | Anton     |
+| Processing Trees     | 0              | 0             | Anton     |
+| Graph Traversals     | 0              | 0             | Anton     |
+| String Manipulation  | 0              | 0             | Anton     |
+| Sorting              | 0              | 0             | Anton     |
+| Dynamic Programming  | 0              | 0             | Anton     |
 
-### Software Theory
+### Advanced Topics
 
 |    Section        | Exercises      |  Content      | Developer |
 |:-----------------:|:--------------:|:-------------:|:---------:|
-| Algorithms        | 0              | 0             | Anton     |
-| Networks          | 0              | 0             | Anton     |
 | Databases         | 0              | 0             | Anton     |
+| SQL               | 0              | 0             | Anton     |
+| Networks          | 0              | 0             | Anton     |
 | Testing           | 0              | 0             | Anton     |
-| Data Management   | 0              | x             | Anton     |
+| Python Libraries  | 0              | 0             | Anton     |
 
 ## Phase 2 - Machine Learning
 
