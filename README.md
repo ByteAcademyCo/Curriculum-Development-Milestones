@@ -2,21 +2,21 @@
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
-| CS-1 | Intro and Env           | Feb 28         | 0              |
-| CS-2 | Intro to Python         | Jan 13         | 66             |
-| CS-3 | OOP                     | Mar 6          | 0              |
-| CS-4 | Data Structures         | Mar 13         | 20             |
-| CS-5 | Software Theory         | Mar 20         | 0              |
-| DS-1 | Intro to ML             | Feb 28         | 0              |
-| DS-2 | Supervised Learning     | Mar 6          | 0              |
-| DS-3 | Neural Networks         | Mar 13         | 0              |
-| DS-4 | Unsupervised Learning   | Mar 20         | 0              |
-| DS-5 | Machine Learning Theory | Mar 20         | 0              |
-| FS-1 | Intro To Web Programming| Feb 28         | 0              |
-| FS-2 | JavaScript Fundamentals | Mar 6          | 0              |
-| FS-3 | The React Library       | Mar 13         | 0              |
-| FS-4 | Intermediate React      | Mar 20         | 0              |
-| FS-5 | Building an E2E App     | Mar 20         | 0              |
+| CS-1 | Intro and Env           | -         | 0              |
+| CS-2 | Intro to Python         | -         | 66             |
+| CS-3 | OOP                     | -          | 0              |
+| CS-4 | Data Structures         | -         | 20             |
+| CS-5 | Software Theory         | -         | 0              |
+| DS-1 | Intro to ML             | -         | 0              |
+| DS-2 | Supervised Learning     | -          | 0              |
+| DS-3 | Neural Networks         | -         | 0              |
+| DS-4 | Unsupervised Learning   | -         | 0              |
+| DS-5 | Machine Learning Theory | -         | 0              |
+| FS-1 | Intro To Web Programming| -         | 0              |
+| FS-2 | JavaScript Fundamentals | -          | 0              |
+| FS-3 | The React Library       | -         | 0              |
+| FS-4 | Intermediate React      | -         | 0              |
+| FS-5 | Building an E2E App     | -         | 0              |
 
 ## Phase 1
 
