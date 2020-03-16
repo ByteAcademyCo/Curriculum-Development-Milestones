@@ -20,25 +20,25 @@
 
 ## Phase 1
 
-### Development Environment
+### Introduction and Setup
 
-|    Section                  | Exercises      |  Content      | Developer |
-|:---------------------------:|:--------------:|:-------------:|:---------:|
-| UNIX Environment            | 0              | 0             | Anton     |
-| Python Environment          | 0              | 0             | Anton     |
-| Git Environment             | 0              | 0             | Anton     |
-| Introduction to Programming | 0              | 0             | Anton     |
-| Software Careers            | 0              | 0             | Anton     |
+|    Section                         | Exercises      |  Content      | Developer |
+|:----------------------------------:|:--------------:|:-------------:|:---------:|
+| Hello World in Python              | 0              | 0             | Anton     |
+| Bash Shell                         | 0              | 0             | Anton     |
+| Git                                | 0              | 0             | Anton     |
+| Introduction to Programming        | 0              | 0             | Anton     |
+| Python Data Types and Control Flow | 6              | x             | Wasif     |
 
 ### Python
 
-|    Section          | Exercises      |  Content      | Developer |
-|:-------------------:|:--------------:|:-------------:|:---------:|
-| Data Types          | 6              | x             | Wasif     |
-| Control Flow        | 0              | x             | Wasif     |
-| Functions           | 0              | x             | Wasif     |
-| Recursion           | 0              | 0             | Anton     |
-| Classes and Objects | 0              | 0             | Anton     |
+|    Section                  | Exercises      |  Content      | Developer |
+|:---------------------------:|:--------------:|:-------------:|:---------:|
+| Functions                   | 0              | x             | Wasif     |
+| Recursive Functions         | 0              | 0             | Anton     |
+| Classes and Objects         | 0              | 0             | Anton     |
+| MVC Architecture            | 0              | 0             | Anton     |
+| ???                         | 0              | 0             | Anton     |
 
 ### Data Structures
 
@@ -48,17 +48,17 @@
 | Linked Lists            | x              | x             | Anton     |
 | Stacks and Queues       | 0              | x             | Anton     |
 | Trees                   | 6              | 0             | Anton     |
-| Graphs                  | 0              | 0             | Anton     |
+| Heaps                   | 0              | 0             | Anton     |
 
 ### Algorithms
 
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Processing Trees     | 0              | 0             | Anton     |
 | Graph Traversals     | 0              | 0             | Anton     |
-| String Manipulation  | 0              | 0             | Anton     |
 | Sorting              | 0              | 0             | Anton     |
+| String Manipulation  | 0              | 0             | Anton     |
 | Dynamic Programming  | 0              | 0             | Anton     |
+| Interview Problems   | 0              | 0             | Anton     |
 
 ### Advanced Topics
 
