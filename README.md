@@ -24,9 +24,9 @@
 
 |    Section                         | Exercises      |  Content      | Developer |
 |:----------------------------------:|:--------------:|:-------------:|:---------:|
-| Hello World in Python              | 0              | 0             | Anton     |
-| Bash Shell                         | 0              | 0             | Anton     |
-| Git                                | 0              | 0             | Anton     |
+| Hello World in Python              | 0              | 0             | Wasif     |
+| UNIX and Bash                      | 0              | 0             | Wasif     |
+| Git                                | 0              | 0             | Wasif     |
 | Introduction to Programming        | 0              | 0             | Anton     |
 | Python Data Types and Control Flow | 6              | x             | Wasif     |
 
@@ -36,26 +36,26 @@
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | 0              | x             | Wasif     |
 | Recursive Functions         | 0              | 0             | Anton     |
+| Dictionaries and Arrays     | 0              | 0             | Anton     |
 | Classes and Objects         | 0              | 0             | Anton     |
 | MVC Architecture            | 0              | 0             | Anton     |
-| ???                         | 0              | 0             | Anton     |
 
 ### Data Structures
 
 |    Section              | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
-| Dictionaries and Arrays | 0              | 0             | Anton     |
 | Linked Lists            | x              | x             | Anton     |
 | Stacks and Queues       | 0              | x             | Anton     |
 | Trees                   | 6              | 0             | Anton     |
 | Heaps                   | 0              | 0             | Anton     |
+| Graphs                  | 0              | 0             | Anton     |
 
 ### Algorithms
 
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Graph Traversals     | 0              | 0             | Anton     |
 | Sorting              | 0              | 0             | Anton     |
+| Binary Logic         | 0              | 0             | Anton     |
 | String Manipulation  | 0              | 0             | Anton     |
 | Dynamic Programming  | 0              | 0             | Anton     |
 | Interview Problems   | 0              | 0             | Anton     |
@@ -67,8 +67,8 @@
 | Databases         | 0              | 0             | Anton     |
 | SQL               | 0              | 0             | Anton     |
 | Networks          | 0              | 0             | Anton     |
-| Testing           | 0              | 0             | Anton     |
-| Python Libraries  | 0              | 0             | Anton     |
+| Testing           | 0              | 0             | Wasif     |
+| Python Libraries  | 0              | 0             | Wasif     |
 
 ## Phase 2 - Machine Learning
 
