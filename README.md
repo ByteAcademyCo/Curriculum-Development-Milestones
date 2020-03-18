@@ -2,25 +2,25 @@
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
-| CS-1 | Intro and Env           | -         | 0              |
-| CS-2 | Intro to Python         | -         | 66             |
-| CS-3 | OOP                     | -          | 0              |
-| CS-4 | Data Structures         | -         | 20             |
-| CS-5 | Software Theory         | -         | 0              |
-| DS-1 | Intro to ML             | -         | 0              |
-| DS-2 | Supervised Learning     | -          | 0              |
-| DS-3 | Neural Networks         | -         | 0              |
-| DS-4 | Unsupervised Learning   | -         | 0              |
-| DS-5 | Machine Learning Theory | -         | 0              |
-| FS-1 | Intro To Web Programming| -         | 0              |
-| FS-2 | JavaScript Fundamentals | -          | 0              |
-| FS-3 | The React Library       | -         | 0              |
-| FS-4 | Intermediate React      | -         | 0              |
-| FS-5 | Building an E2E App     | -         | 0              |
+| CS-1 | Intro and Env           | -              | 20             |
+| CS-2 | Intro to Python         | -              | 20             |
+| CS-3 | Data Structures         | -              | 40             |
+| CS-4 | Algorithms              | -              | 0              |
+| CS-5 | Advanced Topics         | -              | 0              |
+| DS-1 | Intro to ML             | -              | 0              |
+| DS-2 | Supervised Learning     | -              | 0              |
+| DS-3 | Neural Networks         | -              | 0              |
+| DS-4 | Unsupervised Learning   | -              | 0              |
+| DS-5 | Machine Learning Theory | -              | 0              |
+| FS-1 | Intro To Web Programming| -              | 0              |
+| FS-2 | JavaScript Fundamentals | -              | 0              |
+| FS-3 | The React Library       | -              | 0              |
+| FS-4 | Intermediate React      | -              | 0              |
+| FS-5 | Building an E2E App     | -              | 0              |
 
 ## Phase 1
 
-### Introduction and Setup
+### Introduction and Environment
 
 |    Section                         | Exercises      |  Content      | Developer |
 |:----------------------------------:|:--------------:|:-------------:|:---------:|
@@ -30,7 +30,7 @@
 | Introduction to Programming        | 0              | 0             | Anton     |
 | Python Data Types and Control Flow | 6              | x             | Wasif     |
 
-### Python
+### Introduction to Python
 
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
