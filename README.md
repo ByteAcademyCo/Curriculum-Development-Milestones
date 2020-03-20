@@ -4,7 +4,7 @@
 |:----:|:-----------------------:|:--------------:|:--------------:|
 | CS-1 | Intro and Env           | -              | 20             |
 | CS-2 | Intro to Python         | -              | 20             |
-| CS-3 | Data Structures         | -              | 40             |
+| CS-3 | Data Structures         | -              | 60             |
 | CS-4 | Algorithms              | -              | 0              |
 | CS-5 | Advanced Topics         | -              | 0              |
 | DS-1 | Intro to ML             | -              | 0              |
@@ -36,29 +36,29 @@
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | 0              | x             | Wasif     |
 | Recursive Functions         | 0              | 0             | Anton     |
-| Dictionaries and Arrays     | 0              | 0             | Anton     |
-| Classes and Objects         | 0              | 0             | Anton     |
-| MVC Architecture            | 0              | 0             | Anton     |
+| Classes and Objects         | 0              | 0             | Wasif     |
+| Class Protocols             | 0              | 0             | Wasif     |
+| MVC Architecture            | 0              | 0             | Wasif     |
 
 ### Data Structures
 
 |    Section              | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
+| Dictionaries and Arrays | 0              | 0             | Anton     |
 | Linked Lists            | x              | x             | Anton     |
 | Stacks and Queues       | 0              | x             | Anton     |
-| Trees                   | 6              | 0             | Anton     |
+| Trees                   | 6              | x             | Anton     |
 | Heaps                   | 0              | 0             | Anton     |
-| Graphs                  | 0              | 0             | Anton     |
 
 ### Algorithms
 
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
+| Graph Traversals     | 0              | 0             | Anton     |
 | Sorting              | 0              | 0             | Anton     |
 | Binary Logic         | 0              | 0             | Anton     |
 | String Manipulation  | 0              | 0             | Anton     |
 | Dynamic Programming  | 0              | 0             | Anton     |
-| Interview Problems   | 0              | 0             | Anton     |
 
 ### Advanced Topics
 
