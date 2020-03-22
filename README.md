@@ -76,35 +76,35 @@
 
 |    Section              | Exercises      |  Content      | Developer |
 |:----------------------:|:--------------:|:-------------:|:---------:|
-| What is ML             | 0              | 0             | Labeeb    |
-| Math Prereqs           | 0              | 0             | Labeeb    |
-| Regression             | 0              | 0             | Labeeb    |
-| Model Analysis         | 0              | 0             | Labeeb    |
+| What is ML             | 0              | 0             | .    |
+| Math Prereqs           | 0              | 0             | .    |
+| Regression             | 0              | 0             | .    |
+| Model Analysis         | 0              | 0             | .    |
 
 ### Supervised Learning
 
 |    Section               | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
-| K-NN                    | 0              | 0             | Labeeb    |
-| Decision Trees          | 0              | 0             | Labeeb    |
-| Introduction to NN      | 0              | 0             | Labeeb    |
+| K-NN                    | 0              | 0             | .    |
+| Decision Trees          | 0              | 0             | .    |
+| Introduction to NN      | 0              | 0             | .    |
 
 ### Neural Networks
 
 |    Section              | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
-| Feed-Forward NN         | 0              | 0             | Labeeb    |
-| Convolutional NN        | 0              | 0             | Labeeb    |
-| Recurrent NN            | 0              | 0             | Labeeb    |
+| Feed-Forward NN         | 0              | 0             | .    |
+| Convolutional NN        | 0              | 0             | .    |
+| Recurrent NN            | 0              | 0             | .    |
   
 ### Unsupervised Learning
 
 |   Section | Exercises      |  Content      | Developer |
 |:---------:|:--------------:|:-------------:|:---------:|
-| GAN       | 0              | 0             | Labeeb    |
-| K-Means   | 0              | 0             | Labeeb    |
-| PCA       | 0              | 0             | Labeeb    |
-| LDA       | 0              | 0             | Labeeb    |
+| GAN       | 0              | 0             | .    |
+| K-Means   | 0              | 0             | .    |
+| PCA       | 0              | 0             | .    |
+| LDA       | 0              | 0             | .    |
 
 ### Machine Learning Theory
 
