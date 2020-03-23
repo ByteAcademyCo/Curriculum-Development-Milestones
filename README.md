@@ -1,4 +1,4 @@
-# Development Milestones - 8%
+# Development Milestones - 13.4%
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
@@ -12,8 +12,8 @@
 | DS-3 | Neural Networks         | -              | 0              |
 | DS-4 | Unsupervised Learning   | -              | 0              |
 | DS-5 | Machine Learning Theory | -              | 0              |
-| FS-1 | Intro To Web Programming| -              | 0              |
-| FS-2 | JavaScript Fundamentals | -              | 0              |
+| FS-1 | Intro To Web Programming| -              | 47              |
+| FS-2 | JavaScript Fundamentals | -              | 55             |
 | FS-3 | The React Library       | -              | 0              |
 | FS-4 | Intermediate React      | -              | 0              |
 | FS-5 | Building an E2E App     | -              | 0              |
@@ -120,17 +120,17 @@
 ### Introduction to Web Programming
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to HTML        | 0              | 0             | Greg^2    | 
-| Intro to CSS         | 0              | 0             | Greg^2    | 
+| Intro to HTML        | 5              | 9             | Greg^2    | 
+| Intro to CSS         | 5              | 9             | Greg^2    | 
 | RESTful Flask        | 0              | 0             | Greg^2    | 
 | Serving HTML w/ Flask| 0              | 0             | Greg^2    | 
 
 ### JavaScript Fundamentals
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to JS Syntax   | 0              | 0             | Greg^2    |
-| Events, JS, & the DOM| 0              | 0             | Greg^2    |
-| NPM, & JS Projects   | 0              | 0             | Greg^2    |
+| Intro to JS Syntax   | 5              | 8             | Greg^2    |
+| Events, JS, & the DOM| 5              | 5             | Greg^2    |
+| NPM, & JS Projects   | 5              | 5             | Greg^2    |
 
 ### The React  Library
 |    Section           | Exercises      |  Content      | Developer |
