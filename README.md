@@ -1,4 +1,4 @@
-# Development Milestones - 13.4%
+# Development Milestones - 15.7%
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
@@ -12,9 +12,9 @@
 | DS-3 | Neural Networks         | -              | 0              |
 | DS-4 | Unsupervised Learning   | -              | 0              |
 | DS-5 | Machine Learning Theory | -              | 0              |
-| FS-1 | Intro To Web Programming| -              | 47              |
+| FS-1 | Intro To Web Programming| -              | 47             |
 | FS-2 | JavaScript Fundamentals | -              | 55             |
-| FS-3 | The React Library       | -              | 0              |
+| FS-3 | The React Library       | -              | 33             |
 | FS-4 | Intermediate React      | -              | 0              |
 | FS-5 | Building an E2E App     | -              | 0              |
 
@@ -135,8 +135,8 @@
 ### The React  Library
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| React Basics         | 0              | 0             | Greg^2    |
-| React Hooks          | 0              | 0             | Greg^2    |
+| React Basics         | 0              | x             | Greg^2    |
+| React Hooks          | 0              | x             | Greg^2    |
 | Fetch with React     | 0              | 0             | Greg^2    |
 
 ### Intermediate React
