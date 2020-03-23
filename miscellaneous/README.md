@@ -1,6 +1,6 @@
 # Miscellaneous Todo
 
-* Get Foundations 2 quiz to phil
+* Get LMS autograder
 * Pricing
 * Create foundations survey
 * TA/org comp & structures
