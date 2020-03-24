@@ -1,6 +1,6 @@
 # Miscellaneous Todo
 
-* Get LMS autograder
+* Create central exercise repo
 * Pricing
 * Create foundations survey
 * TA/org comp & structures
