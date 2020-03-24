@@ -1,4 +1,4 @@
-# Development Milestones - 15.7%
+# Development Milestones - 23.5%
 
 |Phase |    Module               | Deadline       | Progress       | 
 |:----:|:-----------------------:|:--------------:|:--------------:|
@@ -7,11 +7,6 @@
 | CS-3 | Data Structures         | -              | 60             |
 | CS-4 | Algorithms              | -              | 0              |
 | CS-5 | Advanced Topics         | -              | 0              |
-| DS-1 | Intro to ML             | -              | 0              |
-| DS-2 | Supervised Learning     | -              | 0              |
-| DS-3 | Neural Networks         | -              | 0              |
-| DS-4 | Unsupervised Learning   | -              | 0              |
-| DS-5 | Machine Learning Theory | -              | 0              |
 | FS-1 | Intro To Web Programming| -              | 47             |
 | FS-2 | JavaScript Fundamentals | -              | 55             |
 | FS-3 | The React Library       | -              | 33             |
