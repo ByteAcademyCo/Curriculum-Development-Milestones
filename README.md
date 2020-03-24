@@ -29,7 +29,7 @@
 
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
-| Functions                   | 0              | x             | Wasif     |
+| Functions                   | 0              | x             | Anton     |
 | Recursive Functions         | 0              | 0             | Anton     |
 | Classes and Objects         | 0              | 0             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
