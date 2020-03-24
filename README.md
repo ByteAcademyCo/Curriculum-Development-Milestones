@@ -63,52 +63,7 @@
 | SQL               | 0              | 0             | Anton     |
 | Networks          | 0              | 0             | Anton     |
 | Testing           | 0              | 0             | Wasif     |
-| Python Libraries  | 0              | 0             | Wasif     |
-
-## Phase 2 - Machine Learning
-
-### Introduction to Machine Learning
-
-|    Section              | Exercises      |  Content      | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
-| What is ML             | 0              | 0             | .    |
-| Math Prereqs           | 0              | 0             | .    |
-| Regression             | 0              | 0             | .    |
-| Model Analysis         | 0              | 0             | .    |
-
-### Supervised Learning
-
-|    Section               | Exercises      |  Content      | Developer |
-|:-----------------------:|:--------------:|:-------------:|:---------:|
-| K-NN                    | 0              | 0             | .    |
-| Decision Trees          | 0              | 0             | .    |
-| Introduction to NN      | 0              | 0             | .    |
-
-### Neural Networks
-
-|    Section              | Exercises      |  Content      | Developer |
-|:-----------------------:|:--------------:|:-------------:|:---------:|
-| Feed-Forward NN         | 0              | 0             | .    |
-| Convolutional NN        | 0              | 0             | .    |
-| Recurrent NN            | 0              | 0             | .    |
-  
-### Unsupervised Learning
-
-|   Section | Exercises      |  Content      | Developer |
-|:---------:|:--------------:|:-------------:|:---------:|
-| GAN       | 0              | 0             | .    |
-| K-Means   | 0              | 0             | .    |
-| PCA       | 0              | 0             | .    |
-| LDA       | 0              | 0             | .    |
-
-### Machine Learning Theory
-
-|    Section             | Exercises      |  Content      | Developer |
-|:----------------------:|:--------------:|:-------------:|:---------:|
-| VC-Dimension           | 0              | 0             | Wasif     |
-| Ensemble Learning      | 0              | 0             | Wasif     |
-| Reinforcement Learning | 0              | 0             | Wasif     |
-
+| Python Libraries  | 0              | 0             | Wasif     
 
 ## Phase 2 - Full Stack
 
