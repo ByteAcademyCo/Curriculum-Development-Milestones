@@ -1,17 +1,17 @@
 # Development Milestones - 23.5%
 
-|Phase |    Module               | Deadline       | Progress       | 
-|:----:|:-----------------------:|:--------------:|:--------------:|
-| CS-1 | Intro and Env           | -              | 20             |
-| CS-2 | Intro to Python         | -              | 20             |
-| CS-3 | Data Structures         | -              | 60             |
-| CS-4 | Algorithms              | -              | 0              |
-| CS-5 | Advanced Topics         | -              | 0              |
-| FS-1 | Intro To Web Programming| -              | 47             |
-| FS-2 | JavaScript Fundamentals | -              | 55             |
-| FS-3 | The React Library       | -              | 33             |
-| FS-4 | Intermediate React      | -              | 0              |
-| FS-5 | Building an E2E App     | -              | 0              |
+|Phase |    Module               | Progress       | 
+|:----:|:-----------------------:|:--------------:|
+| CS-1 | Intro and Env           | 20             |
+| CS-2 | Intro to Python         | 20             |
+| CS-3 | Data Structures         | 60             |
+| CS-4 | Algorithms              | 0              |
+| CS-5 | Advanced Topics         | 0              |
+| FS-1 | Intro To Web Programming| 47             |
+| FS-2 | JavaScript Fundamentals | 55             |
+| FS-3 | The React Library       | 33             |
+| FS-4 | Intermediate React      | 0              |
+| FS-5 | Building an E2E App     | 0              |
 
 ## Phase 1
 
