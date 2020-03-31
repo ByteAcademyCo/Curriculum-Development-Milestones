@@ -3,7 +3,7 @@
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
 | CS-1 | Intro and Env           | 20             |
-| CS-2 | Intro to Python         | 20             |
+| CS-2 | Intro to Python         | 40             |
 | CS-3 | Data Structures         | 60             |
 | CS-4 | Algorithms              | 0              |
 | CS-5 | Advanced Topics         | 0              |
@@ -30,7 +30,7 @@
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | 0              | x             | Anton     |
-| Recursive Functions         | 0              | 0             | Anton     |
+| Recursive Functions         | 0              | x             | Anton     |
 | Classes and Objects         | 0              | 0             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
 | MVC Architecture            | 0              | 0             | Wasif     |
