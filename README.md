@@ -23,7 +23,7 @@
 | UNIX and Bash                      | 0              | 0             | Wasif     |
 | Git                                | 0              | 0             | Wasif     |
 | Introduction to Programming        | 0              | 0             | Anton     |
-| Python Data Types and Control Flow | 6              | x             | Wasif     |
+| Data Types and Control Flow        | 6              | x             | Wasif     |
 
 ### Introduction to Python
 
