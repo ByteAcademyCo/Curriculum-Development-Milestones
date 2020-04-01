@@ -30,7 +30,7 @@
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | 0              | x             | Anton     |
-| Recursive Functions         | 0              | x             | Anton     |
+| Recursion                   | 0              | x             | Anton     |
 | Classes and Objects         | 0              | 0             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
 | MVC Architecture            | 0              | 0             | Wasif     |
