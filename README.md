@@ -4,7 +4,7 @@
 |:----:|:-----------------------:|:--------------:|
 | CS-1 | Intro and Env           | 20             |
 | CS-2 | Intro to Python         | 40             |
-| CS-3 | Data Structures         | 60             |
+| CS-3 | Data Structures         | 80             |
 | CS-4 | Algorithms              | 0              |
 | CS-5 | Advanced Topics         | 0              |
 | FS-1 | Intro To Web Programming| 70             |
@@ -43,7 +43,7 @@
 | Linked Lists            | x              | x             | Anton     |
 | Stacks and Queues       | 0              | x             | Anton     |
 | Trees                   | 6              | x             | Anton     |
-| Heaps                   | 0              | 0             | Anton     |
+| Heaps                   | 0              | x             | Anton     |
 
 ### Algorithms
 
