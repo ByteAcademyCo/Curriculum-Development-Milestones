@@ -1,4 +1,4 @@
-# Development Milestones - 28.2%
+# Development Milestones - 39.7%
 
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
