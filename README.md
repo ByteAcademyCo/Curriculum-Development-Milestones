@@ -1,4 +1,4 @@
-# Development Milestones - 23.5%
+# Development Milestones - 28.2%
 
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
@@ -9,8 +9,8 @@
 | CS-5 | Advanced Topics         | 0              |
 | FS-1 | Intro To Web Programming| 47             |
 | FS-2 | JavaScript Fundamentals | 55             |
-| FS-3 | The React Library       | 33             |
-| FS-4 | Intermediate React      | 0              |
+| FS-3 | The React Library       | 50             |
+| FS-4 | Intermediate React      | 10             |
 | FS-5 | Building an E2E App     | 0              |
 
 ## Phase 1
@@ -86,14 +86,19 @@
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
 | React Basics         | 0              | x             | Greg^2    |
-| React Hooks          | 0              | x             | Greg^2    |
-| Fetch with React     | 0              | 0             | Greg^2    |
+| React Conditionals   | 0              | x             | Greg^2    |
+| State Hook           | 0              | x             | Greg^2    |
+| Effect Hook          | 0              | x             | Greg^2    |
+| Reading from API     | 0              | x             | Greg^2    |
 
 ### Intermediate React
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| 3rd-Party Libraries  | 0              | 0             | Greg^2    |
-| CORS, React w/ Flask | 0              | 0             | Greg^2    |
+| React Router DOM     | 0              | x             | Greg^2    |
+| Intro to Redux       | 0              | x             | Greg^2    |
+| More Redux           | 0              | 0             | Greg^2    |
+| Redux or Style Lib   | 0              | 0             | Greg^2    |
+| Style Lib or other   | 0              | 0             | Greg^2    |
 
 ### Building an End-To-End Application
 |    Section           | Exercises      |  Content      | Developer |
