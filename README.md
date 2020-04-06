@@ -7,11 +7,11 @@
 | CS-3 | Data Structures         | 60             |
 | CS-4 | Algorithms              | 0              |
 | CS-5 | Advanced Topics         | 0              |
-| FS-1 | Intro To Web Programming| 47             |
-| FS-2 | JavaScript Fundamentals | 55             |
+| FS-1 | Intro To Web Programming| 70             |
+| FS-2 | JavaScript Fundamentals | 72             |
 | FS-3 | The React Library       | 50             |
 | FS-4 | Intermediate React      | 10             |
-| FS-5 | Building an E2E App     | 0              |
+| FS-5 | Building an E2E App     | 75             |
 
 ## Phase 1
 
@@ -70,7 +70,7 @@
 ### Introduction to Web Programming
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to HTML        | 5              | 9             | Greg^2    | 
+| Intro to HTML        | 5              | x             | Greg^2    | 
 | Intro to CSS         | 5              | 9             | Greg^2    | 
 | RESTful Flask        | 0              | 0             | Greg^2    | 
 | Serving HTML w/ Flask| 0              | 0             | Greg^2    | 
@@ -78,9 +78,9 @@
 ### JavaScript Fundamentals
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to JS Syntax   | 5              | 8             | Greg^2    |
-| Events, JS, & the DOM| 5              | 5             | Greg^2    |
-| NPM, & JS Projects   | 5              | 5             | Greg^2    |
+| Intro to JS Syntax   | 7              | x             | Greg^2    |
+| Events, JS, & the DOM| 7              | 5             | Greg^2    |
+| NPM, & JS Projects   | 5              | 9             | Greg^2    |
 
 ### The React  Library
 |    Section           | Exercises      |  Content      | Developer |
@@ -103,8 +103,8 @@
 ### Building an End-To-End Application
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Project Day 1        | 0              | 0             | Greg^2    |
-| Project Day 2        | 0              | 0             | Greg^2    |
-| Project Day 3        | 0              | 0             | Greg^2    |
-| Project Day 4        | 0              | 0             | Greg^2    |
-| Project Day 5        | 0              | 0             | Greg^2    |
+| Project Day 1        | 5              | *             | Greg^2    |
+| Project Day 2        | 5              | *             | Greg^2    |
+| Project Day 3        | 5              | *             | Greg^2    |
+| Project Day 4        | 5              | *             | Greg^2    |
+| Project Day 5        | 5              | *             | Greg^2    |
