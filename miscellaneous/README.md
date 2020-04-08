@@ -1,7 +1,7 @@
 # Miscellaneous Todo
 
-* Create central exercise repo
-* Create autograder on a central exercise repo
+* Update exercise rep
+* Full time foundations course
 * Pricing
 * Create foundations survey
 * Visit new office
