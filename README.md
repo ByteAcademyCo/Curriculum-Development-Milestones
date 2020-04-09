@@ -1,10 +1,10 @@
-# Development Milestones - 41.7%
+# Development Milestones - 39.5%
 
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
-| CS-1 | Intro and Env           | 20             |
-| CS-2 | Intro to Python         | 40             |
-| CS-3 | Data Structures         | 80             |
+| CS-1 | Intro and Env           | 40             |
+| CS-2 | Intro to Python         | 22             |
+| CS-3 | Data Structures         | 56             |
 | CS-4 | Algorithms              | 0              |
 | CS-5 | Advanced Topics         | 0              |
 | FS-1 | Intro To Web Programming| 70             |
@@ -19,11 +19,11 @@
 
 |    Section                         | Exercises      |  Content      | Developer |
 |:----------------------------------:|:--------------:|:-------------:|:---------:|
-| Hello World in Python              | 0              | 0             | Wasif     |
+| Hello World in Python              | x              | x             | Wasif     |
 | UNIX and Bash                      | 0              | 0             | Wasif     |
 | Git                                | 0              | 0             | Wasif     |
 | Introduction to Programming        | 0              | 0             | Anton     |
-| Data Types and Control Flow        | 6              | x             | Wasif     |
+| Data Types and Control Flow        | x              | x             | Wasif     |
 
 ### Introduction to Python
 
@@ -31,7 +31,7 @@
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | 0              | x             | Anton     |
 | Recursion                   | 0              | x             | Anton     |
-| Classes and Objects         | 0              | 0             | Wasif     |
+| Classes and Objects         | 0              | 2             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
 | MVC Architecture            | 0              | 0             | Wasif     |
 
