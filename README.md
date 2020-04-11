@@ -1,9 +1,9 @@
-# Development Milestones - 39.5%
+# Development Milestones - 40.5%
 
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
 | CS-1 | Intro and Env           | 40             |
-| CS-2 | Intro to Python         | 22             |
+| CS-2 | Intro to Python         | 32             |
 | CS-3 | Data Structures         | 56             |
 | CS-4 | Algorithms              | 0              |
 | CS-5 | Advanced Topics         | 0              |
@@ -29,7 +29,7 @@
 
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
-| Functions                   | 0              | x             | Anton     |
+| Functions                   | x              | x             | Anton     |
 | Recursion                   | 0              | x             | Anton     |
 | Classes and Objects         | 0              | 2             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
