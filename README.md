@@ -70,41 +70,41 @@
 ### Introduction to Web Programming
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to HTML        | 5              | x             | Greg^2    | 
-| Intro to CSS         | 5              | 9             | Greg^2    | 
-| RESTful Flask        | 0              | 0             | Greg^2    | 
-| Serving HTML w/ Flask| 0              | 0             | Greg^2    | 
+| Intro to HTML        | 5              | x             | Greg S    | 
+| Intro to CSS         | 5              | 9             | Greg S    | 
+| RESTful Flask        | 0              | 0             | Greg S    | 
+| Serving HTML w/ Flask| 0              | 0             | Greg S    | 
 
 ### JavaScript Fundamentals
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Intro to JS Syntax   | 7              | x             | Greg^2    |
-| Events, JS, & the DOM| 7              | 5             | Greg^2    |
-| NPM, & JS Projects   | 5              | 9             | Greg^2    |
+| Intro to JS Syntax   | 7              | x             | Greg S    |
+| Events, JS, & the DOM| 7              | 5             | Greg S    |
+| NPM, & JS Projects   | 5              | 9             | Greg S    |
 
 ### The React  Library
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| React Basics         | 0              | x             | Greg^2    |
-| React Conditionals   | 0              | x             | Greg^2    |
-| State Hook           | 0              | x             | Greg^2    |
-| Effect Hook          | 0              | x             | Greg^2    |
-| Reading from API     | 0              | x             | Greg^2    |
+| React Basics         | 0              | x             | Greg F    |
+| React Conditionals   | 0              | x             | Greg F    |
+| State Hook           | 0              | x             | Greg F    |
+| Effect Hook          | 0              | x             | Greg F    |
+| Reading from API     | 0              | x             | Greg F    |
 
 ### Intermediate React
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| React Router DOM     | 0              | x             | Greg^2    |
-| Intro to Redux       | 0              | x             | Greg^2    |
-| More Redux           | 0              | 0             | Greg^2    |
-| Redux or Style Lib   | 0              | 0             | Greg^2    |
-| Style Lib or other   | 0              | 0             | Greg^2    |
+| React Router DOM     | 0              | x             | Greg F    |
+| Intro to Redux       | 0              | x             | Greg F    |
+| More Redux           | 0              | 0             | Greg F    |
+| Redux or Style Lib   | 0              | 0             | Greg F    |
+| Style Lib or other   | 0              | 0             | Greg F    |
 
 ### Building an End-To-End Application
 |    Section           | Exercises      |  Content      | Developer |
 |:--------------------:|:--------------:|:-------------:|:---------:|
-| Project Day 1        | 5              | *             | Greg^2    |
-| Project Day 2        | 5              | *             | Greg^2    |
-| Project Day 3        | 5              | *             | Greg^2    |
-| Project Day 4        | 5              | *             | Greg^2    |
-| Project Day 5        | 5              | *             | Greg^2    |
+| Project Day 1        | 5              | *             | Greg S    |
+| Project Day 2        | 5              | *             | Greg S    |
+| Project Day 3        | 5              | *             | Greg S    |
+| Project Day 4        | 5              | *             | Greg S    |
+| Project Day 5        | 5              | *             | Greg S    |
