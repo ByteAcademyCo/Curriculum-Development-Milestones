@@ -1,4 +1,4 @@
-# Development Milestones - 40.5%
+# Development Milestones - 43.4%
 
 |Phase |    Module               | Progress       | 
 |:----:|:-----------------------:|:--------------:|
@@ -10,7 +10,7 @@
 | FS-1 | Intro To Web Programming| 70             |
 | FS-2 | JavaScript Fundamentals | 72             |
 | FS-3 | The React Library       | 50             |
-| FS-4 | Intermediate React      | 10             |
+| FS-4 | Intermediate React      | 39             |
 | FS-5 | Building an E2E App     | 75             |
 
 ## Phase 1
@@ -96,9 +96,9 @@
 |:--------------------:|:--------------:|:-------------:|:---------:|
 | React Router DOM     | 0              | x             | Greg F    |
 | Intro to Redux       | 0              | x             | Greg F    |
-| More Redux           | 0              | 0             | Greg F    |
-| Redux or Style Lib   | 0              | 0             | Greg F    |
-| Style Lib or other   | 0              | 0             | Greg F    |
+| More Redux           | 0              | x             | Greg F    |
+| Rebass               | 0              | 7             | Greg F    |
+| Recharts             | 0              | 2             | Greg F    |
 
 ### Building an End-To-End Application
 |    Section           | Exercises      |  Content      | Developer |
