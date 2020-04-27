@@ -20,8 +20,8 @@
 |    Section                         | Exercises      |  Content      | Developer |
 |:----------------------------------:|:--------------:|:-------------:|:---------:|
 | Hello World in Python              | x              | x             | Wasif     |
-| UNIX and Bash                      | 0              | 0             | Wasif     |
-| Git                                | 0              | 0             | Wasif     |
+| UNIX and Bash                      | 0              | 0             | Greg      |
+| Git                                | 0              | 0             | Greg      |
 | Introduction to Programming        | 0              | 0             | Anton     |
 | Data Types and Control Flow        | x              | x             | Wasif     |
 
