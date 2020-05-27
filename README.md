@@ -33,7 +33,7 @@
 | Recursion                   | 0              | x             | Anton     |
 | Classes and Objects         | 0              | 2             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
-| MVC Architecture            | 0              | 0             | Wasif     |
+| MVC Architecture            | 0              | 0             | Funchess  |
 
 ### Data Structures
 
