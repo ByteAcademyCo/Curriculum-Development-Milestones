@@ -20,9 +20,9 @@
 |    Section                         | Exercises      |  Content      | Developer |
 |:----------------------------------:|:--------------:|:-------------:|:---------:|
 | Hello World in Python              | x              | x             | Wasif     |
-| UNIX and Bash                      | 0              | 0             | Greg      |
-| Git                                | 0              | 0             | Greg      |
-| Introduction to Programming        | 0              | 0             | Anton     |
+| UNIX and Bash                      | x              | x             | Greg      |
+| Git                                | x              | x             | Greg      |
+| Introduction to Programming        | x              | x             | Anton     |
 | Data Types and Control Flow        | x              | x             | Wasif     |
 
 ### Introduction to Python
@@ -30,20 +30,20 @@
 |    Section                  | Exercises      |  Content      | Developer |
 |:---------------------------:|:--------------:|:-------------:|:---------:|
 | Functions                   | x              | x             | Anton     |
-| Recursion                   | 0              | x             | Anton     |
-| Classes and Objects         | 0              | 2             | Wasif     |
+| Recursion                   | x              | x             | Anton     |
+| Classes and Objects         | x              | 2             | Wasif     |
 | Class Protocols             | 0              | 0             | Wasif     |
-| MVC Architecture            | 0              | 0             | Funchess  |
+| MVC Architecture            | x              | 0             | Funchess  |
 
 ### Data Structures
 
 |    Section              | Exercises      |  Content      | Developer |
 |:-----------------------:|:--------------:|:-------------:|:---------:|
-| Dictionaries and Arrays | 0              | 0             | Anton     |
+| Dictionaries and Arrays | x              | x             | Anton     |
 | Linked Lists            | x              | x             | Anton     |
-| Stacks and Queues       | 0              | x             | Anton     |
-| Trees                   | 6              | x             | Anton     |
-| Heaps                   | 0              | x             | Anton     |
+| Stacks and Queues       | x              | x             | Anton     |
+| Trees                   | x              | x             | Anton     |
+| Heaps                   | x              | x             | Anton     |
 
 ### Algorithms
 
