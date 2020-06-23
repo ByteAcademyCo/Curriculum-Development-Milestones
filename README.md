@@ -3,6 +3,9 @@
 ### Careers Integration
 * Integrate careers milestones into curriculum grading
 
+### Survey Integratio
+* Integrate survey into Aiza database and visualization component
+
 ### Cohort Generation Script
 * Script to generate updated exercise repo per new cohort
 
