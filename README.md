@@ -19,6 +19,7 @@
 ### Aiza Configuration
 * Recommend exercise based on DB queries
 * Programmatic `section_information`
+* Data visualization component
 
 ### Social Meidia Iniitative
 * Weekly marketing on Facebook & Instagram
