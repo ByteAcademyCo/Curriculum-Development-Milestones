@@ -9,6 +9,9 @@
 ### Cohort Generation Script
 * Script to generate updated exercise repo per new cohort
 
+### Student Reset Script
+* The ability to confiure student progress dynamically and override preexisting states
+
 ### Curriculum Validation
 * Script to ensure README files are consistent with slide titles/ordering
 
