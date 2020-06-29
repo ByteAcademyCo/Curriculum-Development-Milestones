@@ -9,6 +9,9 @@
 ### Cohort Generation Script
 * Script to generate updated exercise repo per new cohort
 
+### Curriculum Validation
+* Script to ensure README files are consistent with slide titles/ordering
+
 ### Automated Test Verification
 * Script to validate automated tests using model solutions
 * Script to ensure curriculum slides match READMEs described
