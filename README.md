@@ -1,5 +1,8 @@
 # Development Initatives
 
+### Data Visualization Component
+* Script to visualize all the grades for students
+
 ### Careers Integration
 * Integrate careers milestones into curriculum grading
 
@@ -25,7 +28,6 @@
 ### Aiza Configuration
 * Recommend exercise based on DB queries
 * Programmatic `section_information`
-* Data visualization component
 
 ### Social Meidia Iniitative
 * Weekly marketing on Facebook & Instagram
