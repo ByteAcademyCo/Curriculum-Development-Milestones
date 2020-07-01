@@ -29,6 +29,7 @@
 
 ### Aiza Configuration
 * Recommend exercise based on DB queries
+* Allow configuration of student state
 
 ### Social Meidia Iniitative
 * Weekly marketing on Facebook & Instagram
