@@ -22,11 +22,10 @@
 * Script to validate automated tests using model solutions
 
 ### Curriculum Update Automation
-* Script that updates section-information page based on what exists in exercise directories across curriculum
+* Script that updates `section-information` page based on what exists in exercise directories across curriculum
 
 ### Aiza Configuration
 * Recommend exercise based on DB queries
-* Programmatic `section_information`
 
 ### Social Meidia Iniitative
 * Weekly marketing on Facebook & Instagram
