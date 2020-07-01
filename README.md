@@ -20,7 +20,6 @@
 
 ### Automated Test Verification
 * Script to validate automated tests using model solutions
-* Script to ensure curriculum slides match READMEs described
 
 ### Curriculum Update Automation
 * Script that updates section-information page based on what exists in exercise directories across curriculum
