@@ -24,6 +24,9 @@
 ### Curriculum Update Automation
 * Script that updates `section-information` page based on what exists in exercise directories across curriculum
 
+### Messaging Client
+* Script that provides ability to send emails to staff/students/potential students/etc..
+
 ### Aiza Configuration
 * Recommend exercise based on DB queries
 
