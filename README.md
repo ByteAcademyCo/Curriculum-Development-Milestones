@@ -2,7 +2,7 @@
 
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
-| Careers Integration | Integrate careers milestones into exercise grading | Smith |
+| Careers Integration | Integrate careers milestones into curriculum | Smith |
 | Second Iteration | Second pass through slides with consistent grammar + visuals | Anton |
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Curricuulm Information Automation | Programatically generate curriculum information | Funchess |
