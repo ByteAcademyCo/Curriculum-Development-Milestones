@@ -2,7 +2,7 @@
 
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
-| ~~Test Verification~~ | ~~Ensure test cases pass model solutions~~ | ~~Wasif~~ |
+| ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Careers Integration | Integrate careers milestones into exercise grading | Smith |
 | Model Solutions | Develop model solutions for all exercises | Caroline |
 | Curricuulm Information Automation | Programatically generate curriculum information | Funchess |
