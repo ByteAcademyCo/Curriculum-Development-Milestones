@@ -1,36 +1,15 @@
-# Development Initatives
+# Development Initiative
 
-### Data Visualization Component
-* Script to visualize all the grades for students
-
-### Careers Integration
-* Integrate careers milestones into curriculum grading
-
-### Survey Integration
-* Integrate survey into Aiza database and visualization component
-
-### Cohort Generation Script
-* Script to generate updated exercise repo per new cohort
-
-### Student Reset Script
-* The ability to confiure student progress dynamically and override preexisting states
-
-### Curriculum Validation
-* Script to ensure README files are consistent with slide titles/ordering
-
-### Automated Test Verification
-* Script to validate automated tests using model solutions
-
-### Curriculum Update Automation
-* Script that updates `section-information` page based on what exists in exercise directories across curriculum
-
-### Messaging Client
-* Script that provides ability to send emails to staff/students/potential students/etc..
-
-### Aiza Configuration
-* Recommend exercise based on DB queries
-* Allow configuration of student state
-
-### Social Meidia Iniitative
-* Weekly marketing on Facebook & Instagram
-  
+| Initiative | Description | Assigned To |
+|:----------:|:-----------:|:-----------:|
+| ~~Test Verification | Ensure test cases pass model solutions | Wasif |~~
+| Careers Integration | Integrate careers milestones into exercise grading | Smith |
+| Model Solutions | Develop model solutions for all exercises | Caroline |
+| Curricuulm Information Automation | Programatically generate curriculum information | Funchess |
+| Curriculum Update Automation | Programatically generate `section_information` in Aiza | --Funchess-- |
+| Curriculum Validation | Ensure README files of curriculum repositories are consistent with sildes | Nick |
+| Data Visualizaton | Visualize all the grades for students | --Nick-- |
+| Aiza Updates | Programmatic exercise recommendation & student state configuration | ??? |
+| Survey Integration | Integrate survey into Aiza database and visualization component | ??? |
+| Messaging Client | Ability for Aiza to message students, staff, customers | ??? |
+| Social Media Initative | Aiza scheduled posts on Facebook & Instagram | ??? |
