@@ -4,6 +4,7 @@
 |:----------:|:-----------:|:-----------:|
 | Careers Integration | Integrate careers milestones into curriculum | Smith |
 | Second Itertation | Iterate over curriculum to establish consistency and pedagogy | Anton |
+| Async Ability | Script to ensure all videos for F1 exist on LMS | Harish |
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Curriculum Information | Programatically generate curriculum information | Funchess |
 | Model Solutions | Develop model solutions for all exercises | Caroline |
