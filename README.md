@@ -12,5 +12,6 @@
 | Data Visualizaton | Visualize all the grades for students | Nick 2 |
 | Aiza Updates | Programmatic exercise recommendation & student state configuration | ??? |
 | Survey Integration | Integrate survey into Aiza | ??? |
-| Messaging Client | Ability for Aiza to message students, staff, customers | ??? |
+| Messaging Client | Ability for Aiza to message students and staff | ??? |
+| Off-Tech Integration | Website, sales and alumni integration into Aiza | ??? |
 | Social Media Initative | Aiza scheduled posts on Facebook & Instagram | ??? |
