@@ -11,6 +11,6 @@
 | Curriculum Validation | Ensure README files of curriculum repositories are consistent with sildes | Nick |
 | Data Visualizaton | Visualize all the grades for students | Nick 2 |
 | Aiza Updates | Programmatic exercise recommendation & student state configuration | ??? |
-| Survey Integration | Integrate survey into Aiza database and visualization component | ??? |
+| Survey Integration | Integrate survey into Aiza | ??? |
 | Messaging Client | Ability for Aiza to message students, staff, customers | ??? |
 | Social Media Initative | Aiza scheduled posts on Facebook & Instagram | ??? |
