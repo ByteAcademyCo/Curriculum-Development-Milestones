@@ -2,10 +2,11 @@
 
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
-| ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Careers Integration | Integrate careers milestones into exercise grading | Smith |
-| Model Solutions | Develop model solutions for all exercises | Caroline |
+| Second Iteration | Second pass through slides with consistent grammar + visuals | Anton |
+| ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Curricuulm Information Automation | Programatically generate curriculum information | Funchess |
+| Model Solutions | Develop model solutions for all exercises | Caroline |
 | Curriculum Update Automation | Programatically generate `section_information` in Aiza | Funchess 2 |
 | Curriculum Validation | Ensure README files of curriculum repositories are consistent with sildes | Nick |
 | Data Visualizaton | Visualize all the grades for students | Nick 2 |
