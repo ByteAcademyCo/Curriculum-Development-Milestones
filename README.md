@@ -3,7 +3,7 @@
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
 | Careers Integration | Integrate careers milestones into curriculum | Smith |
-| Second Itertation | Second pass through curriculum to establish consistency and pedagogy | Anton |
+| Second Itertation | Iterate over curriculum to establish consistency and pedagogy | Anton |
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Curriculum Information | Programatically generate curriculum information | Funchess |
 | Model Solutions | Develop model solutions for all exercises | Caroline |
