@@ -1,4 +1,4 @@
-# Development Initiative
+# Development Initiatives
 
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
