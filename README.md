@@ -10,7 +10,7 @@
 | Model Solutions | Develop model solutions for all exercises | Caroline |
 | Curriculum Updates | Programatically generate `section_information` in Aiza | Funchess 2 |
 | Curriculum Validation | Ensure README files of curriculum repositories are consistent with sildes | Nick |
-| Data Visualizaton | Visualize all the grades for students | Nick 2 |
+| Data Visualizaton | Visualize all the grades for students | Paresh |
 | Aiza Updates | Programmatic exercise recommendation & student state configuration | ??? |
 | Survey Integration | Integrate survey into Aiza | ??? |
 | Messaging Client | Ability for Aiza to message students and staff | ??? |
