@@ -8,6 +8,7 @@
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | Curriculum Information | Programatically generate curriculum information | Funchess |
 | Model Solutions | Develop model solutions for all exercises | Caroline |
+| Phase 2 FS | Develop Phase 2 FS slides | Smith |
 | Curriculum Updates | Programatically generate `section_information` in Aiza | Funchess 2 |
 | Curriculum Validation | Ensure README files of curriculum repositories are consistent with sildes | Nick |
 | Data Visualizaton | Visualize all the grades for students | Paresh |
