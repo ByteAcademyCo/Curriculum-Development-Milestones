@@ -3,10 +3,10 @@
 | Initiative | Description | Assigned To | Completion Date |
 |:----------:|:-----------:|:-----------:|:--------:|
 | ~~Careers Integration~~ | Integrate careers milestones into curriculum | Smith | Done |
-| ~~Test Verification~~ | Ensure test cases pass model solutions | Done |
-| ~~Curriculum Information~~ | Programatically generate curriculum information | Done |
-| ~~Model Solutions~~ | Develop model solutions for all exercises | Done |
-| ~~Curriculum Updates~~ | Programatically generate `section_information` in Aiza | Done |
+| ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif | Done |
+| ~~Curriculum Information~~ | Programatically generate curriculum information | Funchess |  Done |
+| ~~Model Solutions~~ | Develop model solutions for all exercises | Nell | Done |
+| ~~Curriculum Updates~~ | Programatically generate `section_information` in Aiza | Funchess | Done |
 | ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Done |
 | Integrate Backends | Integrate LMS and Aiza backend | Funchess | Aug 28 |
 | Phase 2 FS | Develop Phase 2 FS slides | Smith | ... |
