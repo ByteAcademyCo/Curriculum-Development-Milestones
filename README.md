@@ -7,7 +7,7 @@
 | ~~Curriculum Information~~ | Programatically generate curriculum information | Funchess |  Done |
 | ~~Model Solutions~~ | Develop model solutions for all exercises | Nell | Done |
 | ~~Curriculum Updates~~ | Programatically generate `section_information` in Aiza | Funchess | Done |
-| ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Done |
+| ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Nick | Done |
 | Integrate Backends | Integrate LMS and Aiza backend | Funchess | Aug 28 |
 | Phase 2 FS | Develop Phase 2 FS slides | Smith | ... |
 | Week 5 Slides | Develop Week 5 Module | Anton |  Sept 11 |
