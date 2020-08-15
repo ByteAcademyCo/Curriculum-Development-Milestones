@@ -6,7 +6,7 @@
 | Week 5 Slides | Develop Week 5 Module | Anton |
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | ~~Curriculum Information~~ | Programatically generate curriculum information | Funchess |
-| ~~Model Solutions~~ | Develop model solutions for all exercises | Caroline |
+| ~~Model Solutions~~ | Develop model solutions for all exercises | Nell |
 | Phase 2 FS | Develop Phase 2 FS slides | Smith |
 | ~~Curriculum Updates~~ | Programatically generate `section_information` in Aiza | Funchess 2 |
 | ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Nick |
