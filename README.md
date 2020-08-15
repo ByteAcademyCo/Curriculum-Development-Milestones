@@ -3,7 +3,7 @@
 | Initiative | Description | Assigned To |
 |:----------:|:-----------:|:-----------:|
 | ~~Careers Integration~~ | Integrate careers milestones into curriculum | Smith |
-| Second Itertation | Iterate over curriculum to establish consistency and pedagogy | Anton |
+| Week 5 Slides | Develop Week 5 Module | Anton |
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif |
 | ~~Curriculum Information~~ | Programatically generate curriculum information | Funchess |
 | ~~Model Solutions~~ | Develop model solutions for all exercises | Caroline |
@@ -14,5 +14,6 @@
 | Aiza Updates | Programmatic exercise recommendation & student state configuration | Nick |
 | Survey Integration | Integrate survey into Aiza | Funchess |
 | Messaging Client | Ability for Aiza to message students and staff | Harish |
-| Off-Tech Integration | Website, sales and alumni integration into Aiza | Funchess |
+| Website | Change application process for intro to Python | Funchess |
+| Foundations Revamp | Incorporate Aiza/Slides/LMS into Foundations | Wasif |
 | Social Media Initative | Aiza scheduled posts on Facebook & Instagram | Smith |
