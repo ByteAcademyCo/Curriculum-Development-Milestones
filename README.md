@@ -8,6 +8,7 @@
 | ~~Model Solutions~~ | Develop model solutions for all exercises | Nell | Done |
 | ~~Database Revamp~~ | Make Aiza database scalable for integration with LMS DB | Funchess | Done |
 | ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Nick | Done |
+| Update `QueryEngine` | Make Aiza/db_connector.py compatible with DB revamp | Funchess | Aug 19
 | Integrate Backends | Integrate LMS and Aiza backend | Funchess | Aug 25 |
 | Week 1 Exercises | Customize Week 1 exercises | Smith | Aug 25 |
 | Foundations Revamp | Incorporate Aiza/Slides/LMS into Foundations | Wasif | Aug 25 |
