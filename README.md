@@ -6,7 +6,7 @@
 | ~~Test Verification~~ | Ensure test cases pass model solutions | Wasif | Done |
 | ~~Curriculum Information~~ | Programatically generate curriculum information | Funchess |  Done |
 | ~~Model Solutions~~ | Develop model solutions for all exercises | Nell | Done |
-| ~~Curriculum Updates~~ | Programatically generate `section_information` in Aiza | Funchess | Done |
+| ~~Database Revamp~~ | Make Aiza database scalable for integration with LMS DB | Funchess | Done |
 | ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Nick | Done |
 | Integrate Backends | Integrate LMS and Aiza backend | Funchess | Aug 25 |
 | Week 1 Exercises | Customize Week 1 exercises | Smith | Aug 25 |
