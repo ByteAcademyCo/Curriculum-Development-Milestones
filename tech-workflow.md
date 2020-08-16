@@ -18,3 +18,7 @@
 1. Admin initaties `create_course`
   * Add students and instructors to the course
   
+## Auto Grading workflow
+1. Student clicks `submit`
+  * Aiza goes to their git and pulls/grades solution
+  * Updates database/frontend accordingly
