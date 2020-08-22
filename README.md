@@ -13,9 +13,11 @@
 | Week 1 Exercises | Customize Week 1 exercises | Smith | Aug 25 |
 | Foundations Revamp | Incorporate Aiza/Slides/LMS into Foundations | Wasif | Aug 25 |
 | Aiza Updates | Programmatic exercise recommendation & student state configuration | Nick | Aug 25 |
-| Messaging Client | Ability for Aiza to message students and staff | Harish | Sept 11 |
 | Week 5 Slides | Develop Week 5 Module | Anton |  Sept 11 |
-| Survey Integration | Integrate survey into Aiza | Funchess | Sept 11 |
-| Website | Change application process for intro to Python | Funchess | Oct 2 |
-| Data Visualizaton | Visualize all the grades for students | Paresh | ... |
-| Social Media Initative | Aiza scheduled posts on Facebook & Instagram | Smith | ... |
+
+* Course-wide verification
+* Messaging Client - Ability for Aiza to message students and staff
+* Survey Integration - Integrate survey into Aiza
+* Website Integration - Change application process for intro to Python
+* Data Visualization - Paresh - Visualize all the grades for students
+* Social Media Integration - Aiza scheduled posts on Facebook & Instagram
