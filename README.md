@@ -8,13 +8,16 @@
 | ~~Model Solutions~~ | Develop model solutions for all exercises | Nell | Done |
 | ~~Database Revamp~~ | Make Aiza database scalable for integration with LMS DB | Funchess | Done |
 | ~~Curriculum Validation~~ | Ensure README files of curriculum repositories are consistent with sildes | Nick | Done |
-| Update `QueryEngine` | Make Aiza/db_connector.py and remaining Aiza/database compatible with DB revamp | Funchess | Aug 25 |
-| Integrate Backends | Integrate LMS and Aiza backend | Harish | Aug 25 |
-| Week 1 Exercises | Customize Week 1 exercises | Smith | Aug 25 |
-| Foundations Revamp | Incorporate Aiza/Slides/LMS into Foundations | Wasif | Aug 25 |
-| Aiza Updates | Programmatic exercise recommendation & student state configuration | Nick | Aug 25 |
-| Week 5 Slides | Develop Week 5 Module | Anton |  Sept 11 |
+| ~~Week 1 Exercises~~ | Customize Week 1 exercises | Smith | Done |
+| Foundations Requests Section | Develop requests slides for foundations | Smith | Sept 11 |
+| Integrate Backends | Integrate LMS and Aiza backend | Harish/Funchess | Sept 11 |
+| Foundations Revamp | Incorporate Aiza/Slides/LMS into Foundations | Wasif | Sept 11 |
+| Phase 1 exercises | Iteration 2 of P1 exercises complete | Nell | Sept 11 | 
+| Aiza Updates | Programmatic exercise recommendation & student state configuration | Nick | Sept 11 |
+| Week 5 Slides | Develop Week 5 Module | Anton |  Sept 25 |
 
+
+## Upcoming
 * Course-wide verification
 * Messaging Client - Ability for Aiza to message students and staff
 * Survey Integration - Integrate survey into Aiza
